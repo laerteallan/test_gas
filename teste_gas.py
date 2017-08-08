@@ -32,7 +32,3 @@ def GasStation(strArr):
         return str(validate_starr(strArr[1:]))
 
     raise Exception("Invalid Array")
-
-
-
-print (GasStation(a))
